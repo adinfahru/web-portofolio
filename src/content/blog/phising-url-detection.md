@@ -9,12 +9,11 @@ tags:
   - Python
   - Flask
   - Bootstrap
-description: "Phishing URL detection with Three Different Machine Learning Models,"
+description: "Phishing URL detection with Three Different Machine Learning Models"
 ---
 
-## Project: "Ecommerce Catalog"
-### Project-Based Virtual Intern : Frontend Core Initiative x Rakamin Academy
-Final task project build a ecommerce website and fetching data from fakestoreapi with Vue.js
+## Project: "Phishing URL detection with Three Different Machine Learning Models"
+Phishing URL Detection with Three Different Machine Learning Models, for Turnamen Sains Data Nasional 2023.
 
 
 #### Build with :
